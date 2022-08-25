@@ -16,7 +16,6 @@ const server = http.createServer(app);
 app.use(cors());
 app.use(express.json());
 
-
 // =============================
 //          Socket IO         //
 //==============================
